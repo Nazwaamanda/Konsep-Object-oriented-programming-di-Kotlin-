@@ -8,7 +8,6 @@ fun printNumber(n : Number){
 fun printNumber(n : Int){
     println("Using printNumber(n : Int)")
     println(n.toString() + "\n")
-
 }
 
 fun printNumber(n : Double){

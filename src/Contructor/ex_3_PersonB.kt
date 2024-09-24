@@ -1,8 +1,13 @@
 package Contructor
-class PersonC (var firstName: String, var lastName: String, var age: Int) {}
+
+class PersonB (_firstName: String, _lastName: String, _age: Int) {
+    var firstName:String = _firstName
+    var lastName:String = _lastName
+    var age: Int = _age
+}
 
 fun main(){
-    val budi = PersonC("Budi", "Gunawan", 21)
+    val budi = PersonB("Budi", "Gunawan", 21)
     println("Name : ${budi.firstName} ${budi.lastName}")
     println("Age : ${budi.age}")
 }

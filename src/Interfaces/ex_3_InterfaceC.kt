@@ -13,7 +13,6 @@ interface Y  {
     }
     fun funcY()
 }
-
 // This class implements X and Y interfaces
 class MyClassA: X, Y {
     override fun funcX() {
@@ -22,7 +21,6 @@ class MyClassA: X, Y {
     override fun funcY() {
         println("Hi")
     }
-
 }
 
 fun main() {
