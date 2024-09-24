@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a27376b1-1e37-48e1-bc6f-bd76c6e12375" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Konsep Object-oriented programming di Kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifier/ex_1_AccessModifierA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contructor/ex_1_InitOrder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contructor/ex_2_PersonA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contructor/ex_3_PersonB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contructor/ex_4_PersonC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contructor/ex_5_PersonD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contructor/ex_6_PersonE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contructor/ex_7_PersonF.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataKelas/ex_1_DataClassA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataKelas/ex_2_DataClassB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataKelas/ex_3_DataClassC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataKelas/ex_4_DataClassD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataKelas/ex_5_DataClassE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataKelas/ex_6_DataCalssF.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enkapsulasi/ex_1_EnkapsulasiA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enkapsulasi/ex_2_EnkapsulasiB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/ex_1_InheritanceA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/ex_2_InheritanceB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/ex_3_InheritanceC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/ex_4_InheritanceD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/ex_5_ InheritanceE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/ex_6_InheritanceF.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/ex_7_InheritanceG.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/ex_8_InheritanceH.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/ex_1_InterfaceA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/ex_2_InterfaceB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/ex_3_InterfaceC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/ex_4_InterfaceD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KelasAbstrak/ex_1_AccessModifierA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KelasdanObjek/GreeterText.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KelasdanObjek/ex_1_Greeter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KelasdanObjek/ex_2_GreeterText.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KelasdanObjek/ex_3_Greeter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested_InnerClass/ex_1_NestedInnerClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested_InnerClass/ex_2_NestedInnerClassA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested_InnerClass/ex_3_NestedInnerClassB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/ex_1_PolymorphismA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/ex_2_PolymorphismB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VisibilityModifier/ex_1_VisibilityA.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mUrqT222DjoXUDPEZ4IYJL6wS5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.Ex_10_PersonEKt.executor": "Run",
+    "Kotlin.Ex_11_PersonFKt.executor": "Run",
+    "Kotlin.Ex_1_AccessModifierAKt (1).executor": "Run",
+    "Kotlin.Ex_1_AccessModifierAKt.executor": "Run",
+    "Kotlin.Ex_1_DataClassBKt.executor": "Run",
+    "Kotlin.Ex_1_InheritanceAKt.executor": "Run",
+    "Kotlin.Ex_1_InterfaceAKt.executor": "Run",
+    "Kotlin.Ex_1_NestedInnerClassKt.executor": "Run",
+    "Kotlin.Ex_1_VisibilityAKt.executor": "Run",
+    "Kotlin.Ex_2_EnkapsulasiBKt.executor": "Run",
+    "Kotlin.Ex_2_GreeterTextKt (1).executor": "Run",
+    "Kotlin.Ex_2_GreeterTextKt.executor": "Run",
+    "Kotlin.Ex_2_InterfaceBKt.executor": "Run",
+    "Kotlin.Ex_2_PolymorphismBKt.executor": "Run",
+    "Kotlin.Ex_3_DataClassCKt.executor": "Run",
+    "Kotlin.Ex_3_InheritanceCKt.executor": "Run",
+    "Kotlin.Ex_3_InterfaceCKt.executor": "Run",
+    "Kotlin.Ex_3_NestedInnerClassBKt.executor": "Run",
+    "Kotlin.Ex_4_DataClassDKt.executor": "Run",
+    "Kotlin.Ex_4_GreeterTestKt.executor": "Run",
+    "Kotlin.Ex_4_InheritanceDKt.executor": "Run",
+    "Kotlin.Ex_4_InitOrderKt.executor": "Run",
+    "Kotlin.Ex_4_InterfaceDKt.executor": "Run",
+    "Kotlin.Ex_5_DataClassEKt.executor": "Run",
+    "Kotlin.Ex_5_InitOrderKt.executor": "Run",
+    "Kotlin.Ex_5__InheritanceEKt.executor": "Run",
+    "Kotlin.Ex_6_DataCalssFKt.executor": "Run",
+    "Kotlin.Ex_6_InheritanceFKt.executor": "Run",
+    "Kotlin.Ex_6_PersonAKt.executor": "Run",
+    "Kotlin.Ex_7_InheritanceGKt.executor": "Run",
+    "Kotlin.Ex_7_personKt.executor": "Run",
+    "Kotlin.Ex_8_InheritanceHKt.executor": "Run",
+    "Kotlin.Ex_8_PersonCKt.executor": "Run",
+    "Kotlin.Ex_9_PersonDKt.executor": "Run",
+    "Kotlin.Ex_InheritanceBKt.executor": "Run",
+    "Kotlin.GreeterTextKt.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/IdeaProjects/Konsep Object-oriented programming di Kotlin",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.Ex_6_DataCalssFKt">
+    <configuration name="Ex_2_DataClassBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataKelas.Ex_2_DataClassBKt" />
+      <module name="Konsep Object-oriented programming di Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_3_DataClassCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataKelas.Ex_3_DataClassCKt" />
+      <module name="Konsep Object-oriented programming di Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_4_DataClassDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataKelas.Ex_4_DataClassDKt" />
+      <module name="Konsep Object-oriented programming di Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_5_DataClassEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataKelas.Ex_5_DataClassEKt" />
+      <module name="Konsep Object-oriented programming di Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_6_DataCalssFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataKelas.Ex_6_DataCalssFKt" />
+      <module name="Konsep Object-oriented programming di Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Ex_6_DataCalssFKt" />
+        <item itemvalue="Kotlin.Ex_5_DataClassEKt" />
+        <item itemvalue="Kotlin.Ex_4_DataClassDKt" />
+        <item itemvalue="Kotlin.Ex_3_DataClassCKt" />
+        <item itemvalue="Kotlin.Ex_2_DataClassBKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a27376b1-1e37-48e1-bc6f-bd76c6e12375" name="Changes" comment="" />
+      <created>1727142189162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727142189162</updated>
+    </task>
+    <servers />
+  </component>
+</project>
